@@ -1,3 +1,3 @@
 # FABULA
-## HOW TO USE IT
+## HOW TO USE:
 Type whereami() if you need help.

@@ -67,21 +67,21 @@ def shell():
     print('#             FABULA               #')
     print('#    A little postfix calculator   #')
     print('#                                  #')
-    print('# Type whereami() if you need help #')
+    print('#  Type whereami if you need help  #')
     print('####################################')
 
     while True:
 
         sequence = input('>>> ')
         if sequence == 'whereami':
-            print('############### HELP ##############')
-            print('# Operators: + , - , * , / , **')
-            print('# Mathematical constants: pi , e')
-            print('############# EXAMPLES ############')
-            print('# 2 9 * pi +')
-            print('# <<< [\'2\', \'9\', \'*\', \'pi\', \'+\']')
-            print('# <<< 21.141592653589793')
-            print('###################################')
+            print('|-----------### HELP ###-----------')
+            print('| Operators: + , - , * , / , **')
+            print('| Mathematical constants: pi , e')
+            print('|---------### EXAMPLES ###---------')
+            print('| >>> 2 9 * pi +')
+            print('| <<< [\'2\', \'9\', \'*\', \'pi\', \'+\']')
+            print('| <<< 21.141592653589793')
+            print('|__________________________________')
         elif sequence == 'exit':
             exit()
         else:

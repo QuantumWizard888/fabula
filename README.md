@@ -1,6 +1,11 @@
 # FABULA
+
+## Description ##
+A little Python postfix calculator. 
+
 ## HOW TO USE:
 Type **whereami** if you need help.
+
 ## HOW TO READ POSTFIX NOTATION:
 ### Example 1
 This expression:

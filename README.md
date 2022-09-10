@@ -1,7 +1,7 @@
 # FABULA
 
 ## Description ##
-A little Python postfix calculator. 
+A little Python calculator based on postfix notation. 
 
 ## HOW TO USE:
 Type **whereami** if you need help.
